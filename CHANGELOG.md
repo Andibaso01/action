@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 1.4.9
+
+### Patch Changes
+
+- [`94df0f6`](https://github.com/changesets/action/commit/94df0f61ad68470d891141e9c615fdc54cf2aeef) - Create deno.yml
+
 ## 1.4.8
 
 ### Patch Changes
